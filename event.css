@@ -1,0 +1,23 @@
+div{
+    height:100px;
+    width: 100px;
+    background-color: blueviolet;
+    color: aliceblue;
+    border: solid black;
+    border-radius: 2px;
+    padding: 5%;
+    margin: 2%;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
+#mode{
+    height:20px;
+    width: 60px;
+    text-align: center;
+}
